@@ -1,0 +1,26 @@
+body {
+  background-color: #404040;
+  font-family: cursive;
+  font-size: 20px;
+  margin: 15px;
+}
+header {
+  color: black;
+  text-align: center;
+}
+section {
+  color: yellow;
+}
+section.mainmenu{
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+table {
+  margin-left: 27%;
+  width: 50%;
+}
+header {
+  color: yellow;
+}
